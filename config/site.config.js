@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'Facebook',
-      link: 'facebook.com/TeamKurosaki',
+      link: 'https://facebook.com/TeamKurosaki',
     },
   ],
 
